@@ -1,0 +1,23 @@
+/* SELECTORES
+selectores del tipo etiqueta(body,p,table,li)
+
+selectores del tipo clase(.nombre)
+
+selector universal(hace cambios a toda mi pagina)
+*/
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 16px;
+
+    line-height:1.5 ;
+    color: #333;
+    background-color: #a1c3ff;
+}
+
+
